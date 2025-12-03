@@ -14,4 +14,4 @@ function Produto() {
     </div>
   );
 }
-// export default Produto;
+export default Produto;
